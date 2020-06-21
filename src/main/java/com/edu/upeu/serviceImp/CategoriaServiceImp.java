@@ -11,7 +11,7 @@ import com.edu.upeu.service.CategoriaService;
 
 @Service
 public class CategoriaServiceImp implements CategoriaService{
-	
+	  
 	@Autowired
 	private CategoriaDao categoriaDao;
 
